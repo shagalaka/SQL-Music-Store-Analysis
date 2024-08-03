@@ -20,3 +20,7 @@ Navigate to the queries directory to find a list of SQL scripts. Each script foc
 2) Customer Purchases: Analyze purchase patterns of customers.
 3) Popular Genres: Determine the most popular music genres based on sales data.
 To run a query, simply open the script in your SQL client and execute it.
+
+## Contributing
+Contributions are welcome!
+If you have suggestions for new queries or improvements to existing ones.
